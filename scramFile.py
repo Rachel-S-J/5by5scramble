@@ -39,5 +39,3 @@ for i in range(0, len(s)):
             horiz(i)
         else:
             print(' ')
-
-horiz(i)
